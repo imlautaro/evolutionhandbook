@@ -1,0 +1,9 @@
+{
+	"title": "The Evolution Handbook",
+	"url": "evolutionhandbook.vercel.app",
+	"logo": {
+		"light": "/logo-light.svg",
+		"dark": "/logo-dark.svg"
+	},
+	"github": "imlautaro/evolutionhandbook"
+}
